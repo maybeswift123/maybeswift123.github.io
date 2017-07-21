@@ -46,7 +46,7 @@ tags: [github,jekyll]
 ├── _posts  <br />
 └── _site  <br />
 </div>
-这样，当你访问 http://username.github.io/时，GitHub 会使用 Jekyll 解析 用户 username名下的username.github.io项目中，分支为master 的源代码，为你构建一个静态网站，并将生成的 index.html 展示给你。
+这样，当你访问 [http://username.github.io/] 时，GitHub 会使用 Jekyll 解析 用户 username名下的username.github.io项目中，分支为master 的源代码，为你构建一个静态网站，并将生成的 index.html 展示给你。
 
 关于这个目录更多的内容，我们还不需要关心，如果你好奇心比较重，可以先看后文源代码一节。
 
@@ -54,7 +54,7 @@ tags: [github,jekyll]
 
 原来，GitHub认为，一个GitHub账号对应一个用户或者一个组织，GitHub会 给这个用户分配一个域名：username.github.io，当用户访问这个域名时， GitHub会去解析username用户下，username.github.io项目的master分支， 这与我们之前的描述一致。
 
-另外，GitHub还为每个项目提供了域名，例如，你有一个项目名为blog， GitHub为这个项目提供的域名为username.github.io/blog， 当你访问这个域名时，GitHub会去解析username用户下，blog项目的gh-pages 分支。
+另外，GitHub还为每个项目提供了域名，例如，你有一个项目名为blog， GitHub为这个项目提供的域名为[username.github.io/blog] ， 当你访问这个域名时，GitHub会去解析username用户下，blog项目的gh-pages 分支。
 
 所以，要搭建自己的博客，你可以选择建立名为 username.github.io的项目， 在master分支下存放网站源代码，也可以选择建立名为 blog 的项目，在 gh-pages分支下存放网站源代码。
 
@@ -73,6 +73,6 @@ GitHub还为我们提供了更一种解析网站的方式，那就是直接上�
 ├── categories  <br />
 ├── page2  <br />
 </div>
-其中的 categories，2013, 2014 目录就是分类插件和归档插件帮助我生成的， 我只要把这个目录下的内容上传到 GitHub 相应的项目分支中就可以了。这样，你 访问 username.github.io时，GitHub就不解析了，直接把index.html返回给你了。
+其中的 categories，2016, 2017 目录就是分类插件和归档插件帮助我生成的， 我只要把这个目录下的内容上传到 GitHub 相应的项目分支中就可以了。这样，你 访问 username.github.io时，GitHub就不解析了，直接把index.html返回给你了。
 
 本文内容摘取自[on_1y](http://blog.csdn.net/on_1y/article/details/19259435) 的blog
