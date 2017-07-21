@@ -7,7 +7,7 @@ title: 使用GitHub和Jekyll打造自己的免费独立博客
 
 [Jekyll](http://jekyll.com.cn/)是一个简单的，针对博客设计的静态网站生成器。使用 GitHub 和 Jekyll，我们可以打造自己的独立博客，你可以自由地定制网站的风格，并且这一切都是免费的。
 
-这是我在GitHub上个人博客的源代码。
+这是我在GitHub上个人博客的[源代码](https://github.com/maybeswift123/maybeswift123.github.io)。
 
 # 入门指引
 
