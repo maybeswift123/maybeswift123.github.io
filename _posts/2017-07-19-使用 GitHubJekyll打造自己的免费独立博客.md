@@ -9,12 +9,12 @@ title: 使用GitHub和Jekyll打造自己的免费独立博客
 
 这是我在GitHub上个人博客的源代码。
 
-#入门指引
+ #入门指引
 
 [GitHub Pages](https://pages.github.com/)的主页提供了一个简单的入门指引，阅读并操作一下，会有一个直观简单的认识。
 
 阮一峰老师的文章《[搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)》是使用 GitHub 和 Jekyll 搭建独立博客非常好的入门文章，强烈建议先阅读并操作一遍。
-#建立自己的博客
+ #建立自己的博客
 在学习完阮一峰老师的文章后，你就已经有能力搭建自己的独立博客了，但是这个博客 只有最基本的功能，并且也不好看。这时候，你面临几个选择:
 
  1. 完全自己定制博客
