@@ -1,6 +1,6 @@
-# Codinfox-Lanyon
+# Welcome
 
-This is a jekyll template based on [Lanyon](https://github.com/poole/lanyon). See a live demo [here](http://codinfox.github.io).
+This is a jekyll template based on [Lanyon](https://github.com/poole/lanyon). See a live demo [here](http://lanyon.getpoole.com).
 
 **If you like this project, PLEASE give it a star.**
 
