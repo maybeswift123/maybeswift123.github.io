@@ -9,12 +9,12 @@ title: 使用GitHub和Jekyll打造自己的免费独立博客
 
 这是我在GitHub上个人博客的源代码。
 
- #入门指引
+# 入门指引
 
 [GitHub Pages](https://pages.github.com/)的主页提供了一个简单的入门指引，阅读并操作一下，会有一个直观简单的认识。
 
 阮一峰老师的文章《[搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)》是使用 GitHub 和 Jekyll 搭建独立博客非常好的入门文章，强烈建议先阅读并操作一遍。
- #建立自己的博客
+ # 建立自己的博客
 在学习完阮一峰老师的文章后，你就已经有能力搭建自己的独立博客了，但是这个博客 只有最基本的功能，并且也不好看。这时候，你面临几个选择:
 
  1. 完全自己定制博客
@@ -26,8 +26,8 @@ title: 使用GitHub和Jekyll打造自己的免费独立博客
 如果选择 3, 那么自己Google一下 github.io 博客 能找到不少博客,去fork,然后修改一下就好。 最近有一个 jekyll-now，在 GitHub 上已经获取了 1000+ 的fork，可以关注一下。这个项目的特点是，所有操作都是通过网站进行的，不需要懂命令行。
 
 如果选择 1, 那么可以好好看下后文的内容。
-#GitHub + Jekyll 工作机制
-###机制一 
+# GitHub + Jekyll 工作机制
+### 机制一 
   简单地说，你在 GitHub 上有一个账号，名为username(任意)， 有一个项目，名为 username.github.io(固定格式，username与账号名一致)， 项目分支名为 master(固定)，这个分支有着类似下面的 目录结构:
 <div class="message">
 ├── index.html  <br />
@@ -57,7 +57,7 @@ title: 使用GitHub和Jekyll打造自己的免费独立博客
 所以，要搭建自己的博客，你可以选择建立名为 username.github.io的项目， 在master分支下存放网站源代码，也可以选择建立名为 blog 的项目，在 gh-pages分支下存放网站源代码。
 
 GitHub 的 Help 文档中的[User, Organization and Project Pages](https://help.github.com/articles/user-organization-and-project-pages/)对此有 详细的描述。
-###机制二
+### 机制二
 Jekyll 提供了插件功能，在网站源代码目录下，有一个名为 <em>_plugins</em>的目录， 你可以将一些插件放进去，这样，Jekyll在解析网站源代码时，就会运行你的插件， 这样插件是 Ruby 写成的。可以为Jekyll添加功能，例如，Jekyll默认是不提供分类 页面的，你可以写一个插件，根据文章内容生成分类页面。如果没有插件，你只能每次写文章，添加分类时，为每个分类手动写 HTML 页面。
 
 在本地运行 Jekyll 时，这些插件会自动被调用，但是GitHub在解析网站源代码时， 出于安全考虑，会开启安全模式，禁用这些插件。我们既想用这些插件，又想用 GitHub，怎么办呢？
