@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 使用GitHub和Jekyll打造自己的免费独立博客
+categories: [tech]
+tags: [github,jekyll]
 ---
 
 [GitHub](https://github.com/)是一个代码托管网站，现在很多开源项目都放在GitHub上。 利用GitHub，可以让全球各地的程序员们一起协作开发。GitHub 提供了一种功能，叫 [GitHub Pages](https://pages.github.com/), 利用这个功能，我们可以为项目建立网站，当然，这也意味着我们可以通过 GitHub Pages 建立自己的网站。
