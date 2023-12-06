@@ -29,7 +29,7 @@ author:
   gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
   contact:
     # linkedin:  https://www.linkedin.com/in/lizhihao
-    github:    https://github.com/maybeswift123
+    # github:    https://github.com/maybeswift123
     # facebook:  <hide>
     #twitter:   https://twitter.com/Li_Zhihao
     #weibo:     http://weibo.com/41173780
@@ -46,7 +46,7 @@ nav:
   About:          
     - '/about/'
   Github Project: 
-    - 'http://github.com/maybeswift123'
+    # - 'http://github.com/maybeswift123'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
