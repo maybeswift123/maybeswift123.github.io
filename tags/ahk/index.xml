@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Ahk - 标签 - MaybeSwift</title>
-        <link>https://maybeswift123.github.io/tags/ahk/</link>
+        <link>http://localhost:1313/tags/ahk/</link>
         <description>Ahk - 标签 - MaybeSwift</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 03 Apr 2024 17:00:34 &#43;0800</lastBuildDate><atom:link href="https://maybeswift123.github.io/tags/ahk/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 03 Apr 2024 17:00:34 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/ahk/" rel="self" type="application/rss+xml" /><item>
     <title>AutoHotkey初学者向导</title>
-    <link>https://maybeswift123.github.io/autohotkey%E5%88%9D%E5%AD%A6%E8%80%85%E5%90%91%E5%AF%BC/</link>
+    <link>http://localhost:1313/autohotkey%E5%88%9D%E5%AD%A6%E8%80%85%E5%90%91%E5%AF%BC/</link>
     <pubDate>Wed, 03 Apr 2024 17:00:34 &#43;0800</pubDate>
     <author>qinzd</author>
-    <guid>https://maybeswift123.github.io/autohotkey%E5%88%9D%E5%AD%A6%E8%80%85%E5%90%91%E5%AF%BC/</guid>
+    <guid>http://localhost:1313/autohotkey%E5%88%9D%E5%AD%A6%E8%80%85%E5%90%91%E5%AF%BC/</guid>
     <description><![CDATA[原文改自 https://wyagd001.github.io/v2/docs/Tutorial.htm 作者 tidbit 1 - 基础 在开始我们的旅程之前, 让我给你一些建议吧. 在本向导中, 你会看到大量的文字和代码. 为了更有效的学习, 建议你阅读这些文字]]></description>
 </item>
 </channel>
