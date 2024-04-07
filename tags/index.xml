@@ -1,22 +1,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - 标签 - MaybeSwift</title>
-        <link>http://localhost:1313/tags/</link>
+        <link>https://maybeswift123.github.io/tags/</link>
         <description>Tags - 标签 - MaybeSwift</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 03 Apr 2024 17:00:34 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 03 Apr 2024 17:00:34 &#43;0800</lastBuildDate><atom:link href="https://maybeswift123.github.io/tags/" rel="self" type="application/rss+xml" /><item>
     <title>Ahk</title>
-    <link>http://localhost:1313/tags/ahk/</link>
+    <link>https://maybeswift123.github.io/tags/ahk/</link>
     <pubDate>Wed, 03 Apr 2024 17:00:34 &#43;0800</pubDate>
     <author>qinzd</author>
-    <guid>http://localhost:1313/tags/ahk/</guid>
+    <guid>https://maybeswift123.github.io/tags/ahk/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>AutoHotkey</title>
-    <link>http://localhost:1313/tags/autohotkey/</link>
+    <link>https://maybeswift123.github.io/tags/autohotkey/</link>
     <pubDate>Wed, 03 Apr 2024 17:00:34 &#43;0800</pubDate>
     <author>qinzd</author>
-    <guid>http://localhost:1313/tags/autohotkey/</guid>
+    <guid>https://maybeswift123.github.io/tags/autohotkey/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
