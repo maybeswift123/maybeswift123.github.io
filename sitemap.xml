@@ -2,12 +2,12 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/</loc><lastmod>2024-04-06T17:54:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/posts/</loc><lastmod>2024-04-06T17:54:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc><lastmod>2024-04-06T17:54:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/tags/ahk/</loc><lastmod>2024-04-03T17:00:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/tags/autohotkey/</loc><lastmod>2024-04-03T17:00:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/categories/autohotkey/</loc><lastmod>2024-04-03T17:00:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/autohotkey%E5%88%9D%E5%AD%A6%E8%80%85%E5%90%91%E5%AF%BC/</loc><lastmod>2024-04-03T17:00:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/categories/</loc><lastmod>2024-04-03T17:00:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/tags/</loc><lastmod>2024-04-03T17:00:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
+            <loc>https://maybeswift123.github.io/</loc><lastmod>2024-04-06T17:54:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://maybeswift123.github.io/posts/</loc><lastmod>2024-04-06T17:54:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://maybeswift123.github.io/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc><lastmod>2024-04-06T17:54:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://maybeswift123.github.io/tags/ahk/</loc><lastmod>2024-04-03T17:00:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://maybeswift123.github.io/tags/autohotkey/</loc><lastmod>2024-04-03T17:00:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://maybeswift123.github.io/categories/autohotkey/</loc><lastmod>2024-04-03T17:00:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://maybeswift123.github.io/autohotkey%E5%88%9D%E5%AD%A6%E8%80%85%E5%90%91%E5%AF%BC/</loc><lastmod>2024-04-03T17:00:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://maybeswift123.github.io/categories/</loc><lastmod>2024-04-03T17:00:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://maybeswift123.github.io/tags/</loc><lastmod>2024-04-03T17:00:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
